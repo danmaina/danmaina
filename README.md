@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @danmaina
+- 👀 I’m interested in building for great ideas.
+- 🌱 I’m currently learning and developing coding skills in multiple languages: go, java, vue and flutter
