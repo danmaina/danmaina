@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @danmaina
-- 👀 I’m interested in bringing great ideas into reality and testing them.
+- 👀 I’m interested in bringing great ideas into reality through technology and software.
 - 🌱 I’m currently learning and developing coding skills in multiple languages: go, java, vue and flutter
