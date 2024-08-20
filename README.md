@@ -2,9 +2,11 @@
 
 ## 👋 Hi, I’m @danmaina
 
-I enjoy the process of bringing great technological ideas into reality through software.
+I enjoy the process of evolving ideas and processes to use technology through software.
 
 I am proficient in Go, Java, PHP, Flutter, linux, and Vue.js. My objective is to engage with software and collaborators in a productive, functional, and efficient manner to solve everyday challenges.
+
+Also, I love arch linux 😄
 
 ## Contact
 
