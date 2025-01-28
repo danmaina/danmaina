@@ -4,11 +4,9 @@
 ### Golang Enthusiast | Backend Developer | Open Source Contributor
 
 ## 👨‍💻 About Me
-I'm a backend developer with a strong passion for Golang and building scalable, efficient systems. I enjoy contributing to open-source projects and solving complex problems with clean, maintainable code. When I'm not coding, you can find me exploring new technologies or tinkering with personal projects.
+I'm a backend developer with a strong passion for Golang and building scalable, efficient systems. I enjoy solving complex problems with clean, maintainable code. When I'm not coding, you can find me exploring new technologies or tinkering with personal projects.
 
-I am Passionate about building scalable backend systems and contributing to open-source projects.
-
-I enjoy the process of bringing ideas to life using technology, evolving traditional processes and operations to use technology for better efficiency. For this, I choose software as my tool 😄.
+I am Passionate about building scalable backend systems and for someone that enjoys the process of bringing ideas to life using technology, evolving traditional processes and operations to use technology for better efficiency; I choose software as my tool 😄..
 
 ## 🛠️ Technologies & Tools
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
