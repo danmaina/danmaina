@@ -42,8 +42,8 @@ I enjoy the process of bringing ideas to life using technology, evolving traditi
 ## 🚀 Projects
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [Go Colored Logger Package](https://github.com/danmaina/logger) | A scalable backend service for handling API requests. | Go, Docker, PostgreSQL |
-| [Go Health Checks Package](https://github.com/danmaina/health) | A CLI tool for automating deployment workflows. | Go, Bash, Kubernetes |
+| [Go Colored Logger Package](https://github.com/danmaina/logger) | A scalable backend service for handling API requests. | Go|
+| [Go Health Checks Package](https://github.com/danmaina/health) | A CLI tool for automating deployment workflows. | Go |
 
 ## 🌐 Connect with Me
 - [GitHub](https://github.com/danmaina)
