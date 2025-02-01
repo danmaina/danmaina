@@ -1,7 +1,7 @@
 
 
 # Hi, I'm Dan Maina 👋
-### Golang Enthusiast | Backend Developer | Open Source Contributor
+### Tenchnical Lead | Fintech | Backend/Frontend Engineer
 
 ## 👨‍💻 About Me
 I'm a backend developer with a strong passion for Golang and building scalable, efficient systems. I enjoy solving complex problems with clean, maintainable code. When I'm not coding, you can find me exploring new technologies or tinkering with personal projects.
