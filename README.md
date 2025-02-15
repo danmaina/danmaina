@@ -31,6 +31,7 @@ I am Passionate about building scalable backend systems and for someone that enj
 ![WildFly](https://img.shields.io/badge/-WildFly-FF9900?style=flat&logo=wildfly&logoColor=white)
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
