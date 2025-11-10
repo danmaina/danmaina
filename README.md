@@ -4,9 +4,9 @@
 ### Solutions Architect | Tenchnical Lead | Fintech | Backend/Frontend Engineer
 
 ## 👨‍💻 About Me
-I'm a Solutions Architect backend developer with a strong passion for Golang and building scalable, efficient systems. I enjoy solving complex problems with clean, maintainable code. When I'm not coding, you can find me exploring new technologies or tinkering with personal projects and reviewing system design papers.
+I'm a Solutions Architect, Technical Lead and backend developer with a strong passion for Golang, designing and building scalable, efficient systems. I enjoy solving complex problems with an architectural design perspective and clean, maintainable code. When I'm not coding, you can find me exploring new technologies or tinkering with personal projects and reviewing system design papers.
 
-I am Passionate about building scalable backend systems and for someone that enjoys the process of bringing ideas to life using technology, evolving traditional processes and operations to use technology for better efficiency; I choose software as my tool 😄..
+I am Passionate about designing and building scalable backend systems and for someone that enjoys the process of bringing ideas to life using technology, evolving traditional processes and operations to use technology for better efficiency; I choose architecture & software as my tool 😄..
 
 ## 🛠️ Technologies & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
