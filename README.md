@@ -1,10 +1,10 @@
 
 
 # Hi, I'm Dan Maina 👋
-### Tenchnical Lead | Fintech | Backend/Frontend Engineer
+### Solutions Architect | Tenchnical Lead | Fintech | Backend/Frontend Engineer
 
 ## 👨‍💻 About Me
-I'm a backend developer with a strong passion for Golang and building scalable, efficient systems. I enjoy solving complex problems with clean, maintainable code. When I'm not coding, you can find me exploring new technologies or tinkering with personal projects.
+I'm a Solutions Architect backend developer with a strong passion for Golang and building scalable, efficient systems. I enjoy solving complex problems with clean, maintainable code. When I'm not coding, you can find me exploring new technologies or tinkering with personal projects and reviewing system design papers.
 
 I am Passionate about building scalable backend systems and for someone that enjoys the process of bringing ideas to life using technology, evolving traditional processes and operations to use technology for better efficiency; I choose software as my tool 😄..
 
