@@ -60,6 +60,3 @@ I am Passionate about designing and building scalable backend systems and for so
 
 ## 📫 Let's Connect!
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me via [email](mailto:maina.dan.ndirangu@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/maina-dan-arin/).
-
-## 📊 GitHub Stats
-![Dan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danmaina&show_icons=true&theme=radical)
